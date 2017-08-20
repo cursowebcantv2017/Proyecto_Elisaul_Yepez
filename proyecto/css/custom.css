@@ -1,0 +1,187 @@
+/* Banner superior*/
+
+.bg-primary {
+    color: #fff;
+    background-color: #FECC69;
+}
+
+/* Banner superior*/
+
+/* Barra de navegación */
+.navbar-default {
+    background-color: #99CC01;
+    border-color: #99CC01;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+/* Barra de navegación */
+
+/* Letras de la barra de navegación*/
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #C57303;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #C57303;
+    background-color: #99CC01;
+}
+
+/* Letras de la barra de navegación*/
+
+/* Banner Sushi */
+
+.navbar-form {
+    padding: 10px 15px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: -0px;
+    margin-left: 0px;
+    border-top: 0px solid transparent;
+    border-bottom: 0px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1),0 1px 0 rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.1),0 1px 0 rgba(255,255,255,.1);
+}
+
+/* Banner Sushi */
+
+/* Página de Inicio */
+
+.thumbnail {
+    display: block;
+    padding: 15px;
+    margin-bottom: 0px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 0px solid #541010;
+    border-radius: 0px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+/* Página de Inicio */
+
+/* Página de ¿Quiénes Somos?*/
+
+#form1{
+    color: white;
+    background-color: #FF9900;
+    border-radius: 50%;
+    padding: 100px;
+}
+
+#form2{
+    color: white;
+    background-color: #FFCC00;
+    border-radius: 50%;
+    padding: 100px;
+}
+
+#form3{
+    color: white;
+    background-color: #99CC01;
+    border-radius: 50%;
+    padding: 100px;
+}
+
+/* Página de ¿Quiénes Somos?*/
+
+/* Página de Productos*/
+
+#padre {
+    display: table;
+    height:90px;
+    background-color: #3399FE;
+    width: 100%;
+    margin-top: 30px;
+}
+#hijo {
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+}
+
+/* Página de Productos*/
+
+/* Página de Servicios */
+
+#padre2 {
+    display: table;
+    height:90px;
+    background-color: #EDEDED;
+    width: 100%;
+    margin-top: 30px;
+}
+#hijo2 {
+    display: table-cell;
+    vertical-align: middle;
+    color: black;
+}
+
+.formato{
+    border: 1px solid black;
+    background-color: #FFCC66;
+}
+
+.tabla{
+    border-collapse: separate;
+    border-spacing:  30px;
+}
+
+/* Página de Servicios */
+
+/* Página de Contacto */
+
+.interfaz{
+    background-color: black;
+    height: 100px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+
+    line-height: 1.42857143;
+    color: #000;
+    background-color: #F5F5F5;
+    background-image: none;
+    border: 1px solid #e7dede;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.tabla2{
+    border-collapse: separate;
+    border-spacing:  30px;
+}
+
+.btn-default {
+    color: #000;
+    background-color: #FFCC66;
+    border-color: #FFCC66;
+}
+
+/* Página de Contacto */
